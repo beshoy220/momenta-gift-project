@@ -78934,7 +78934,7 @@ M(a){var s=$.aqU()
 return A.au9(B.m4,A.ap0(A.cS(A.c([B.JD,B.Ev,B.E1,B.Og,B.Uq,B.zw,B.M0,B.E7],t.p),B.a7,B.C),s,B.aM))}}
 A.Jd.prototype={
 M(a){var s=null,r=t.p
-return new A.cq(B.DK,A.fi(A.c([A.fi(A.c([A.cL(s,s,B.p,s,s,new A.cK(s,A.Y_(s,new A.ju("logo.png",s,s),s),s,s,s,s,B.aq),s,60,s,s,s,s,60),B.SK],r),B.aG,B.C),A.wA(B.kE,new A.a65(a),A.wC(s,s,B.be,s,s,s,s,s,s,s,s,s,s,s,B.hC,s,s,s,s,s))],r),B.jN,B.C),s)}}
+return new A.cq(B.DK,A.fi(A.c([A.fi(A.c([A.cL(s,s,B.p,s,s,new A.cK(s,A.Y_(s,new A.ju("assets/logo.png",s,s),s),s,s,s,s,B.aq),s,60,s,s,s,s,60),B.SK],r),B.aG,B.C),A.wA(B.kE,new A.a65(a),A.wC(s,s,B.be,s,s,s,s,s,s,s,s,s,s,s,B.hC,s,s,s,s,s))],r),B.jN,B.C),s)}}
 A.a65.prototype={
 $0(){var s=A.IX(new A.a64(),null,t.z)
 A.yt(this.a).kw(s)},
